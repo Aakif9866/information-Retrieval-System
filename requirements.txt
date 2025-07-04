@@ -1,0 +1,9 @@
+python-dotenv==1.0.1
+google-generativeai==0.3.2
+langchain==0.1.16
+PyPDF2==3.0.1
+faiss-cpu==1.8.0
+streamlit==1.35.0
+
+# Editable local package (only if you have a setup.py or pyproject.toml in the project root)
+-e .
