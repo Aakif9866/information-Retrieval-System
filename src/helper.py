@@ -47,4 +47,3 @@ def get_conversational_chain(vector_store):
         memory=memory
     )
     return conversation_chain
-
